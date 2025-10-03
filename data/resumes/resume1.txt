@@ -1,0 +1,4 @@
+Name: John Doe
+Email: john.doe@gmail.com
+Skills: Python, SQL, Machine Learning, Web Development
+Experience: 2 years as Software Developer

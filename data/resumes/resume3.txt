@@ -1,0 +1,4 @@
+Name: Ali Khan
+Email: ali.khan@gmail.com
+Skills: Java, SQL, Web Development
+Experience: 3 years as Backend Developer

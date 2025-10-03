@@ -1,0 +1,4 @@
+Name: Priya Sharma
+Email: priya.sharma@gmail.com
+Skills: Python, NLP, Data Analysis
+Experience: 1 year as Data Scientist Intern
